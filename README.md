@@ -7,13 +7,13 @@ A lightweight, pip-installable alternative to browser-based PDF tools. All proce
 ## Install
 
 ```bash
-pip install git+https://github.com/nous-pdftool/pdftool.git
+pip install git+https://github.com/xzl01/pdftool.git
 ```
 
 Or from source:
 
 ```bash
-git clone https://github.com/nous-pdftool/pdftool.git
+git clone https://github.com/xzl01/pdftool.git
 cd pdftool
 pip install .
 ```
